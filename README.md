@@ -67,3 +67,26 @@ elif choices == "c":
     print("Incorrect") # choice c in incorrect
 elif choices == "C":
     print("Incorrect"); # choice C in incorrect
+    
+print("Neurotransmitter associated with alertness and arousal also one of your bodies reward chemicals")
+a = print("A: Dopamine") # option a
+b = print("B: Endorphines") # option b
+c = print("C: Serotonin") # option c
+d = print("D: Gaba") # option d
+choices = input("a, b, c, or d?: ") # choose one of the options
+if choices == "a":
+    print("Correct!") # choice a is correct
+if choices == "A":
+    print("Correct!") # choice A is correct
+elif choices == "d":
+    print("Incorrect") # choice d in incorrect
+elif choices == "D":
+    print("Incorrect") # choice D in incorrect
+elif choices == "b":
+    print("Incorrect") # choice b in incorrect
+elif choices == "B":
+    print("Incorrect") # choice B in incorrect
+elif choices == "c":
+    print("Incorrect") # choice c in incorrect
+elif choices == "C":
+    print("Incorrect"); # choice C in incorrect
